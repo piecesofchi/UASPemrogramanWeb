@@ -1,0 +1,84 @@
+/* FONT */
+body {
+    background: #fdf6ff;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+/* NAVBAR */
+.navbar {
+    background: linear-gradient(90deg, #ff9a9e, #fad0c4);
+}
+
+.navbar-brand,
+.navbar .nav-link {
+    color: #fff !important;
+    font-weight: 600;
+}
+
+.navbar .nav-link:hover {
+    text-decoration: underline;
+}
+
+/* CARD STYLE */
+.container {
+    background: #ffffff;
+    border-radius: 20px;
+    padding: 25px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+}
+
+/* FORM */
+.form-control,
+.form-select {
+    border-radius: 12px;
+    border: 1px solid #f1c6ff;
+}
+
+.form-control:focus,
+.form-select:focus {
+    border-color: #d38cff;
+    box-shadow: 0 0 0 0.2rem rgba(211,140,255,0.25);
+}
+
+/* BUTTON */
+.btn-primary {
+    background: linear-gradient(135deg, #c471f5, #fa71cd);
+    border: none;
+    border-radius: 12px;
+    font-weight: 600;
+}
+
+.btn-primary:hover {
+    opacity: 0.9;
+}
+
+.btn-danger {
+    border-radius: 10px;
+}
+
+/* TABLE */
+.table {
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+.table thead {
+    background: #f3d9ff;
+}
+
+.table th {
+    color: #6a1b9a;
+}
+
+/* PAGINATION */
+.pagination .page-link {
+    color: #b05cff;
+    border-radius: 10px;
+    margin: 0 3px;
+}
+
+.pagination .active .page-link {
+    background: #c471f5;
+    border-color: #c471f5;
+    color: #fff;
+}
