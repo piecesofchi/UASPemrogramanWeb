@@ -105,11 +105,11 @@ Struktur folder project pada Visual Studio Code.
 ### Implementasi Routing (.htaccess)
 Konfigurasi routing menggunakan file `.htaccess`.
 
-perpustakaan/.htaccess
+#### `perpustakaan/.htaccess`
 
 <img width="537" height="193" alt="image" src="https://github.com/user-attachments/assets/c851cc5b-9a7f-4280-a2b6-8d36665d2602" />
 
-perpustakaan/public/.htaccess
+#### `perpustakaan/public/.htaccess`
 
 <img width="593" height="218" alt="image" src="https://github.com/user-attachments/assets/01cf8fab-b94d-4a41-9928-34fcbdda54b9" />
 
@@ -175,5 +175,6 @@ untuk keperluan simulasi dan pembelajaran.
 Dengan dibuatnya aplikasi ini, diharapkan dapat membantu memahami
 penerapan PHP OOP, routing, CRUD, serta penggunaan framework CSS
 dalam pengembangan aplikasi web sederhana.
+
 
 
